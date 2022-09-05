@@ -1,6 +1,9 @@
 # PoC-AEC
 Este repositorio contiene las versiones en las que se desarrolló la prueba de concepto asociada al proyecto Automatic Evidence Collector.
 
+El proyecto tiene como objetivo automatizar el proceso de recolección de evidencia. Dicho proyecto se comunicará con Google Classroom para recolectar evidencia de atributos de egreso de la UABC, y con Google Drive para almacenar dicha evidencia. 
+Esta prueba de concepto presenta una interfaz gráfica con la que se pueden observar algunas de las funciones simuladas que estarán presentes en el proyecto.
+
 - Diagramas de la arquitectura.
 Dentro de la pequeña aplicación creada como muestra, se puede observar un menú que nos permite observar algunas opciones. 
 El diagrama que mejor describe esta prueba de concepto es el siguiente:
